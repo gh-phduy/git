@@ -1,0 +1,1 @@
+console.log('Hello config version 1')
