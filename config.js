@@ -1,1 +1,1 @@
-console.log('Hello config version 4')
+console.log('Hello config version 6')
